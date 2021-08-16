@@ -1,2 +1,3 @@
-osxmetadata==0.99.13
-click==7.1.2
+osxmetadata
+click
+osxphotos

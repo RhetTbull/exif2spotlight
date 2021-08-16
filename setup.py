@@ -46,7 +46,7 @@ setup(
         "Programming Language :: Python :: 3.8",
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
-    install_requires=["click==7.1.2", "osxmetadata==0.99.13"],
+    install_requires=["click", "osxmetadata", "osxphotos"],
     python_requires=">=3.8",
     entry_points={"console_scripts": ["exif2spotlight=exif2spotlight.cli:cli"]},
 )
