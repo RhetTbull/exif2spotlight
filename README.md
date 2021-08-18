@@ -1,4 +1,4 @@
-I didn't realize how much exif data Spotlight already indexes. Given this I don't think this utlity is really needed.
+This project was stopped and work continued in [exif2findertags](https://github.com/RhetTbull/exif2findertags)
 
 # exif2spotlight
 Read exif metadata from images with exiftool and write to MacOS Spotlight searchable extended attributes
